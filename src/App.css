@@ -1,38 +1,96 @@
-.App {
-  text-align: center;
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #121212; 
+  color: #ffffff; 
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+a {
+  text-decoration: none;
+  color: inherit;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+nav {
+  background-color: #1f1f1f;
+  padding: 10px 20px;
   display: flex;
-  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-between;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  color: #fefefe;
 }
 
-.App-link {
-  color: #61dafb;
+nav a {
+  margin: 0 10px;
+  font-size: 1.2rem;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+nav input {
+  padding: 5px;
+  font-size: 1rem;
+}
+
+nav input:focus {
+  outline: none;
+  border: 2px solid #343839;
+}
+
+.movie-detail img {
+  width: 300px;
+  height: auto;
+  margin-right: 20px;
+  border-radius: 10px;
+}
+
+.movie-detail-content {
+  max-width: 600px;
+}
+
+.movie-detail-content h1 {
+  font-size: 2rem;
+  margin: 0;
+}
+
+.movie-detail-content p {
+  font-size: 1.1rem;
+  line-height: 1.5;
+}
+
+.movie-detail-content h2 {
+  margin-top: 20px;
+  font-size: 1.5rem;
+}
+
+.movie-detail-content ul {
+  padding: 0;
+  list-style: none;
+}
+
+.movie-detail-content ul li {
+  font-size: 1.1rem;
+  margin: 5px 0;
+}
+
+
+@media (max-width: 768px) {
+  .movie-detail {
+    flex-direction: column;
+    align-items: center;
   }
-  to {
-    transform: rotate(360deg);
+
+  .movie-detail img {
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+
+  nav {
+    flex-direction: column;
+  }
+
+  nav a {
+    margin: 5px 0;
   }
 }

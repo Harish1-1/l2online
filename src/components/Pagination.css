@@ -1,0 +1,26 @@
+
+  .pagination {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+  }
+  
+  .pagination button {
+    background-color: #232627;
+    color: #fefefe;
+    border: none;
+    padding: 10px 20px;
+    margin: 0 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .pagination button:disabled {
+    background-color: #343839;
+    cursor: default;
+  }
+  
+  .pagination button:hover:not(:disabled) {
+    background-color: #141718;
+  }
+  
