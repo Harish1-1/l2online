@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/l2online/static/css/main.4e09c0ae.css",
+    "main.js": "/l2online/static/js/main.1fe20340.js",
+    "static/css/71.060d6050.chunk.css": "/l2online/static/css/71.060d6050.chunk.css",
+    "static/js/71.76356510.chunk.js": "/l2online/static/js/71.76356510.chunk.js",
+    "static/css/487.060d6050.chunk.css": "/l2online/static/css/487.060d6050.chunk.css",
+    "static/js/487.7d83eb22.chunk.js": "/l2online/static/js/487.7d83eb22.chunk.js",
+    "static/css/502.060d6050.chunk.css": "/l2online/static/css/502.060d6050.chunk.css",
+    "static/js/502.3d30cf18.chunk.js": "/l2online/static/js/502.3d30cf18.chunk.js",
+    "static/css/549.d197d103.chunk.css": "/l2online/static/css/549.d197d103.chunk.css",
+    "static/js/549.ea9d2c38.chunk.js": "/l2online/static/js/549.ea9d2c38.chunk.js",
+    "static/css/440.060d6050.chunk.css": "/l2online/static/css/440.060d6050.chunk.css",
+    "static/js/440.84757984.chunk.js": "/l2online/static/js/440.84757984.chunk.js",
+    "static/js/453.f0598371.chunk.js": "/l2online/static/js/453.f0598371.chunk.js",
+    "static/js/154.193a1bc8.chunk.js": "/l2online/static/js/154.193a1bc8.chunk.js",
+    "index.html": "/l2online/index.html",
+    "main.4e09c0ae.css.map": "/l2online/static/css/main.4e09c0ae.css.map",
+    "main.1fe20340.js.map": "/l2online/static/js/main.1fe20340.js.map",
+    "71.060d6050.chunk.css.map": "/l2online/static/css/71.060d6050.chunk.css.map",
+    "71.76356510.chunk.js.map": "/l2online/static/js/71.76356510.chunk.js.map",
+    "487.060d6050.chunk.css.map": "/l2online/static/css/487.060d6050.chunk.css.map",
+    "487.7d83eb22.chunk.js.map": "/l2online/static/js/487.7d83eb22.chunk.js.map",
+    "502.060d6050.chunk.css.map": "/l2online/static/css/502.060d6050.chunk.css.map",
+    "502.3d30cf18.chunk.js.map": "/l2online/static/js/502.3d30cf18.chunk.js.map",
+    "549.d197d103.chunk.css.map": "/l2online/static/css/549.d197d103.chunk.css.map",
+    "549.ea9d2c38.chunk.js.map": "/l2online/static/js/549.ea9d2c38.chunk.js.map",
+    "440.060d6050.chunk.css.map": "/l2online/static/css/440.060d6050.chunk.css.map",
+    "440.84757984.chunk.js.map": "/l2online/static/js/440.84757984.chunk.js.map",
+    "453.f0598371.chunk.js.map": "/l2online/static/js/453.f0598371.chunk.js.map",
+    "154.193a1bc8.chunk.js.map": "/l2online/static/js/154.193a1bc8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e09c0ae.css",
+    "static/js/main.1fe20340.js"
+  ]
+}
